@@ -1,0 +1,27 @@
+1. Biến
+ Name=giá trị
+2. kiểu giữ liệu
+ tự động phát hiện kiểu dữ liệu
+3. Kiểm tra kiểu dữ liệu
+ kiểm tra kiểu dữ liệu bằng type(name)
+4. Ép kiểu
+ kieu_du_lieu(name):
+ Vd: int(data)
+5. Print
+ In ra màn hình
+ Tự động xuống dòng với mối print khi kết thúc in 
+ thay đổi thì sử dụng them tham số end=" .." (kí tự nối)
+6. Chuỗi
+ Nếu muốn in kí tự đặc biệt thì dùng \ trước kí tự đó
+ Lấy kí tự trong chuỗi: lấy như mảng
+7. Number và toán tử
+ Như C
+8.Mảng
+ index từ 0 tính từ bên trái qua phải
+       từ -1 nếu ngược lại
+ Như C
+ xoá phần tử "del"
+9. Tuple
+-Định nghĩa một dãy hằng số
+10. Dictionary
+

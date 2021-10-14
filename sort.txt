@@ -1,0 +1,11 @@
+1. counting sort
+B1: tìm max và min
+B2: tạo mảng temp: có độ dài đánh từ min đến max
+B3: duyệt mảng gốc đếm số lần suất hiên điền vào mảng temp
+B4: edit mảng temp: duyệt lần lượt : giá trị của phần tử sau bằng phần tử trước cộng với chính nó
+B5: mảng kết quả: duyệt mảng gốc đối chiếu mảng temp: điền vào vị trị tương ứng, mỗi lần điền thì số lần xuất hiện giảm đi 1
+2. radix sort
+B1: tạo một dãy khối chứa từ 0 -9
+B2: lần lượt xét theo các hàng từ đơn vị, chục, trăm ,.. đặt vào từng khối
+B3: gộp các khối lại với nhau và lặp lại B1 ->B3 cho đến khi chỉ có một khối chứa dữ liệu còn lại trống
+B4: in kết quả
